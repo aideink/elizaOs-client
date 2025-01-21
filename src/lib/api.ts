@@ -1,6 +1,6 @@
 import type { UUID,Character } from "../core/types.ts";
 
-const BASE_URL = `http://localhost:${import.meta.env.VITE_SERVER_PORT ?? 3000}`;
+const BASE_URL = `http://www.ai16z.cc:${import.meta.env.VITE_SERVER_PORT ?? 3000}`;
 
 const fetcher = async ({
     url,
