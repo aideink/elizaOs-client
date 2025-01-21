@@ -37,7 +37,7 @@ export function AppSidebar() {
                         <SidebarMenuButton size="lg" asChild>
                             <NavLink to="/">
                                 <img
-                                    src="/elizaos-icon.png"
+                                    src="/elizaos.svg"
                                     width="100%"
                                     height="100%"
                                     className="size-7"
